@@ -1,0 +1,3 @@
+rootProject.name = 'confident_not_cocky_3771'
+
+include ':app'

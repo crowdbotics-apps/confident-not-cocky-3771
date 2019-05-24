@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT confident_not_cocky_3771.wsgi:application
